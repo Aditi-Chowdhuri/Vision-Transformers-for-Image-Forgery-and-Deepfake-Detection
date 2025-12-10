@@ -10,7 +10,7 @@ The goal is to detect manipulated facial videos by:
 - and training **CNN-based and ViT-based models**.
 
 Because the full dataset is very large, we work with a **smaller subset** (e.g., a few hundred real and a few hundred fake videos).  
-This makes it practical to experiment without needing huge compute.
+This makes it practical to experiment without needing huge computing.
 
 ---
 
@@ -69,5 +69,6 @@ You can:
 
 > **Note:**  
 > Edit the **configuration file/arguments** (e.g., backbone choice, paths, training hyperparameters) **before running the code**.
+> No other changes are required.
 
 ### Data: https://drive.google.com/drive/folders/1ZLOIVmzC0MBYkmjJOdWJKqNfeKon7QI2?usp=sharing
